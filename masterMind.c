@@ -29,7 +29,7 @@ int main(){
 
     ///////////////////////////////
     
-    for(int time = 0; time <= 10; time++){
+    for(int time = 1; time <= 10; time++){
         char answer[4]; //Take input from user (letters) and store the answers  
         reponse(answer);
 
